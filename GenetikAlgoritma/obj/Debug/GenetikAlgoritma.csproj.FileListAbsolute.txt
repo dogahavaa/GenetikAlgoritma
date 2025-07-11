@@ -1,0 +1,8 @@
+C:\Users\Doa\source\repos\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+C:\Users\Doa\source\repos\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+C:\Users\Doa\source\repos\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+C:\Users\Doa\source\repos\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.AssemblyReference.cache
+C:\Users\Doa\source\repos\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\Doa\source\repos\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+C:\Users\Doa\source\repos\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+C:\Users\Doa\source\repos\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe.config
